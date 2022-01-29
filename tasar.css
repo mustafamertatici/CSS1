@@ -1,0 +1,26 @@
+h2{
+    color: purple;
+    text-align: center;
+}
+h1{
+    color: lightcoral;
+    text-align: center;
+
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+h3{ text-transform: uppercase;
+    color: peru; text-align: center;
+}
+img{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;    
+}
+.text{
+margin-left: 35%;
+}
